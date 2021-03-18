@@ -1,0 +1,60 @@
+#fond_de_page {
+    display: flex;
+    align-items: flex-end;
+    background-color: rgb(184, 183, 192);
+}
+
+#blockone {
+    background-color: rgb(179, 174, 228);
+}
+
+#blocktwo {
+    background-color: rgb(98, 88, 187);
+}
+
+#blockthree {
+    background-color: rgb(73, 66, 139);
+}
+
+#blockfour {
+    background-color: rgb(100, 93, 165);
+}
+
+#blockfive {
+    background-color: rgb(51, 46, 98);
+}
+
+#blocksix {
+    background-color: rgb(20, 14, 75);
+}
+
+h1 {
+    background-color: rgb(90, 8, 58);
+}
+
+h2 {
+    background-color: rgb(184, 33, 159);
+}
+
+header {
+    height: 25%;
+    width: 25%;
+    background-color: coral;
+}
+
+
+}
+main {
+    height: 25%;
+    width: 25%;
+    background-color: rgb(127, 185, 144);
+}
+
+}
+footer {
+    height: 25%;
+    width: 25%;
+    background-color: rgb(43, 98, 60);
+}
+
+}

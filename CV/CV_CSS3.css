@@ -1,0 +1,36 @@
+    body {
+        background-color: rgba(137, 109, 146, 0.513);
+    }
+    
+    #fond_de_page {
+        width: 50%;
+        margin: auto;
+        background-color: rgb(176, 143, 179);
+        border: 3mm ridge rgba(170, 50, 220, .6);
+    }
+    
+    #blockone {
+        display: inline-flex;
+        justify-content: space-between;
+        margin: auto;
+        border: 1mm rgb(144, 151, 39);
+    }
+    
+    h1 {
+        font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+        color: rgb(70, 21, 116);
+        background-color: rgb(207, 108, 216);
+        text-align: center;
+    }
+    
+    .taille {
+        width: 100%;
+        margin: auto;
+        border: 1px solid rgb(144, 151, 39);
+        rgba(137, 109, 146, 0.513)
+    }
+    
+    #bas_de_page {
+        display: flex;
+        justify-content: space-between;
+    }
