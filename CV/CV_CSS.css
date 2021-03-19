@@ -1,73 +1,75 @@
-                                body {
-                                background-color: rgba(137, 109, 146, 0.513);
-                            }
-                            
-                            h1 {
-                                font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-                                color: rgb(70, 21, 116);
-                                background-color: rgb(207, 108, 216);
-                                text-align: center;
-                            }
-                            
-                            h2 {
-                                font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-                                color: rgb(104, 12, 128);
-                                text-align: center;
-                            }
-                            
-                            p,
-                            div {
-                                font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
-                                font-style: italic;
-                                color: rgb(44, 5, 51);
-                                background-color: rgb(207, 108, 216);
-                            }
-                            
-                            IMG.displayed {
-                                display: block;
-                                margin: auto;
-                                /*margin-left: auto;
-    margin-right: 0%*/
-                            }
-                            
-                            .taille {
-                                width: 100%;
-                                margin: auto
-                            }
-                            
-                            .couleur {
-                                background-color: rgb(48, 12, 51);
-                            }
-                            
-                            #blockone {
-                                background-color: white;
-                            }
-                            
-                            #fond_de_page {
-                                width: 50%;
-                                margin: auto;
-                                background-color: rgb(176, 143, 179);
-                                border: 3mm ridge rgba(170, 50, 220, .6);
-                            }
-                            
-                            footer {
-                                text-align: center;
-                            }
-                            
-                            #bas_de_page {
-                                display: flex;
-                                justify-content: space-between;
-                                background-color: rgba(137, 109, 146, 0.513);
-                            }
-                            
-                            #blockfive {
-                                width: 49%;
-                            }
-                            
-                            #blocksix {
-                                width: 49%;
-                            }
-                            
-                            .taille1 {
-                                width: 50%;
-                                margin: auto
+body {
+    background-color: rgba(137, 109, 146, 0.513);
+}
+
+h1 {
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+    color: rgb(70, 21, 116);
+    background-color: rgb(207, 108, 216);
+    text-align: center;
+}
+
+h2 {
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+    color: rgb(104, 12, 128);
+    text-align: center;
+}
+
+p,
+div {
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+    font-style: italic;
+    color: rgb(44, 5, 51);
+    background-color: rgb(207, 108, 216);
+}
+
+IMG.displayed {
+    display: block;
+    margin: auto;
+    /*margin-left: auto;
+                                                        margin-right: 0%*/
+}
+
+.taille {
+    width: 100%;
+    margin: auto
+}
+
+.couleur {
+    background-color: rgb(48, 12, 51);
+}
+
+#blockone {
+    background-color: white;
+}
+
+#fond_de_page {
+    width: 50%;
+    margin: auto;
+    background-color: rgb(176, 143, 179);
+    border: 3mm ridge rgba(170, 50, 220, .6);
+}
+
+footer {
+    text-align: center;
+}
+
+#bas_de_page {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(176, 143, 179);
+}
+
+#blockfive {
+    width: 49%;
+}
+
+#blocksix {
+    width: 49%;
+}
+
+
+/*.taille1 {
+         width: 50%;
+         margin: auto;
+     }*/
