@@ -1,2 +1,3 @@
 Ceci est un fichier Git
 phrase numéro 1
+phrase numéro 2
