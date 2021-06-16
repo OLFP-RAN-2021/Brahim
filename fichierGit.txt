@@ -1,3 +1,4 @@
 Ceci est un fichier Git
 phrase numéro 1
 phrase numéro 2
+phrase numéro 3
